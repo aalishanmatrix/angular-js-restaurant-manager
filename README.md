@@ -6,7 +6,7 @@ A single page AngularJS app for managing restaurants - coding challenge for pote
 Demo
 =============================
 
-http://jsfiddle.net/erictherobot/S97bS/2/embedded/result/
+http://jsfiddle.net/aalishan/gj53j/
 
 Installation
 =============================
